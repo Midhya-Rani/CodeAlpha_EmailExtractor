@@ -1,0 +1,5 @@
+Hello, my email is ali.khan@gmail.com.
+For support, write to services@codealpha.tech.
+Other emails: sara_99@yahoo.com or info@example.org.
+This email again: ali.khan@gmail.com
+There is no email on this line.
